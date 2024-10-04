@@ -1,0 +1,2 @@
+"# chrome-2.0"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/JuanDavidn14/chrome-2.0.gitgit push -u origin main
+"# Multiscrap-2"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/JuanDavidn14/Multiscrap-2.gitgit push -u origin main
